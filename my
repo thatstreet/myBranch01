@@ -1,4 +1,8 @@
 fdsa
 fdas
 fads
+<<<<<<< HEAD
 本地多改几个文件,测试fetch对比
+=======
+本地多改几个文件,测试fetch对比,远程只改一个
+>>>>>>> origin/master
